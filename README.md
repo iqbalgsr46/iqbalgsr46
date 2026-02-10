@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqbalgsr46&label=Profile%20views&color=0e75b6&style=flat" alt="iqbalgsr46" /> </p>
 
-- 🔭 I’m currently working on **realtime-point-of-sales**
+- 🔭 I’m currently working on **Fullstack NEXT.js**
 
 - 🌱 I’m currently learning **Fullstack Next.js WPU Course**
 
