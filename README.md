@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ikbalgsr46@gmail.com**
 
-- ⚡ Fun fact **Hampir rajin ngoding**
+- ⚡ Fun fact **Adalah Pokoknya**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
